@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DateConverterActivity</string>
+
+    <string name="Baisakh">Baisakh</string>
+    <string name="Jestha"> Jestha </string>
+    <string name="Ashar"> Ashar</string>
+    <string name="Shrawan"> Shrawan</string>
+    <string name="Bhadra">Bhadra</string>
+    <string name="Ashoj">Ashoj </string>
+    <string name="Kartik"> Kartik </string>
+    <string name="Mangsir"> Mangsir</string>
+    <string name="Poush"> Poush</string>
+    <string name="Magh">Magh</string>
+    <string name="Falgun"> Falgun </string>
+    <string name="Chaitra">Chaitra </string>
+</resources>
